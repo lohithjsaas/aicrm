@@ -15,7 +15,7 @@ const contactMethods = [
     label: "Phone",
     value: "+91-8970081700",
     href: "tel:+918970081700",
-    description: "Direct line",
+    description: "Phone",
   },
   {
     icon: Linkedin,
