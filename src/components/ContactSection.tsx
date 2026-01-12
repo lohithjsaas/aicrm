@@ -21,7 +21,7 @@ const contactMethods = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Connect with us",
-    href: "https://linkedin.com",
+    href: "https://in.linkedin.com/company/supercx",
     description: "Follow our updates",
   },
 ];
